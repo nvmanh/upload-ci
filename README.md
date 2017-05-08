@@ -34,9 +34,13 @@ fileupload {
 
 ### 2. Using GUI plugin
 
-Please download this file then install to android studio plugin
+- Download [Plugin file](https://github.com/nvmanh/upload-ci/blob/master/CI-upload-gui-plugin.zip) then install to android studio
+- Download [Config file](https://github.com/nvmanh/upload-ci/blob/master/framgia-upload.ic) to project root directory
 
 ```java
-
-
+- Open Android Studio / Setting / Plugins/ Install plugin from disk
+- Select downloaded plugin above
+- Restart Android studio
+- You can see on the navigation (top menu, on the right of android studio) a menu name "Framgia"
+- Config your framgia-upload.ic
 ```
