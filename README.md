@@ -44,3 +44,5 @@ fileupload {
 - You can see on the navigation (top menu, on the right of android studio) a menu name "Framgia"
 - Config your framgia-upload.ic
 ```
+
+![GUI Screen](https://github.com/nvmanh/upload-ci/blob/master/screenshot/60370edfc2ef2e27673b32e3394817ed.png)
